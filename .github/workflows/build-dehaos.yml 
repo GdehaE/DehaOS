@@ -1,6 +1,8 @@
 name: DehaOS ISO Builder
 
 on:
+
+  push:
   workflow_dispatch:
 
 jobs:
